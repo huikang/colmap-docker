@@ -1,0 +1,2 @@
+# colmap-docker
+Containerize COLMAP
